@@ -3,6 +3,6 @@ Status do projeto: EM DESENVOLVIMENTO
 Para rodar esse projeto é necessário :
 
 ```
-npm install
+node app.js
 ```
         
